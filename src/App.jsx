@@ -1041,6 +1041,7 @@ function App() {
         type="text"
         id="contact-name"
         name="name"
+        autoComplete="name"
         placeholder="Enter your name"
         required
       />
@@ -1052,6 +1053,7 @@ function App() {
         type="email"
         id="contact-email"
         name="email"
+        autoComplete="email"
         placeholder="name@example.com"
         required
       />
@@ -1064,6 +1066,7 @@ function App() {
       type="text"
       id="contact-subject"
       name="subject"
+      autoComplete="off"
       placeholder="What would you like to discuss?"
       required
     />
@@ -1074,6 +1077,7 @@ function App() {
     <textarea
       id="contact-message"
       name="message"
+      autoComplete="off"
       rows="5"
       placeholder="Tell me about your project or opportunity..."
       required
