@@ -349,7 +349,7 @@ function App() {
         whileHover={{ y: -5 }}
       >
         <span>ACADEMIC SCORE</span>
-        <h3>7.63</h3>
+        <h3>8</h3>
         <p>CGPA through 4th semester</p>
       </motion.div>
 
