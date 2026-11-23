@@ -1,4 +1,4 @@
-# Tapash Ranjan Mishra — Personal Portfolio
+# Tapash Ranjan Mishra - Personal Portfolio
 
 A personal portfolio website showcasing my background, technical skills, projects, internship experience and interests in Artificial Intelligence and Machine Learning.
 
@@ -45,7 +45,7 @@ A web-based learning platform with interactive frontend components and backend f
 
 ## Internship Experience
 
-**Systems Department Intern — Mahanadi Coalfields Limited (MCL)**  
+**Systems Department Intern - Mahanadi Coalfields Limited (MCL)**  
 6 July 2026 – 5 August 2026
 
 Worked on an Offline AI PDF Assistant using RAG, FAISS, Hugging Face embeddings, Ollama and Llama 3.2, with a Streamlit interface.
