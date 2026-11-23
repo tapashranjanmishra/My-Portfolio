@@ -1,16 +1,94 @@
-# React + Vite
+# Tapash Ranjan Mishra — Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A personal portfolio website showcasing my background, technical skills, projects, internship experience and interests in Artificial Intelligence and Machine Learning.
 
-Currently, two official plugins are available:
+## About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I am a BCA student specializing in Artificial Intelligence and Machine Learning at Assam Down Town University. I am interested in AI/ML development, Generative AI, Retrieval-Augmented Generation and software development.
 
-## React Compiler
+## Portfolio Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Responsive personal portfolio
+- About and education section
+- Internship and experience timeline
+- Technical projects showcase
+- Skills and technology overview
+- Contact form with email submission
+- Resume download
+- Social and professional profile links
 
-## Expanding the Oxlint configuration
+## Technology Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- **Frontend:** React.js, JavaScript, HTML5, CSS3
+- **Build Tool:** Vite
+- **Animations:** Framer Motion
+- **Icons:** Lucide React
+- **Contact Form:** FormSubmit
+- **Version Control:** Git and GitHub
+
+## Featured Projects
+
+### Offline AI PDF Assistant
+A privacy-focused PDF question-answering application built using Retrieval-Augmented Generation.
+
+**Technologies:** Python, FAISS, Hugging Face Embeddings, Ollama, Llama 3.2, Streamlit.
+
+### Generative AI Legal Simplifier
+A prototype designed to simplify complex legal documents using Generative AI, including summaries, keyword highlighting and multilingual processing.
+
+**Technologies:** Python, Generative AI, NLP, Streamlit.
+
+### Online Learning Platform
+A web-based learning platform with interactive frontend components and backend functionality.
+
+**Technologies:** React, Node.js, Express.js, MongoDB.
+
+## Internship Experience
+
+**Systems Department Intern — Mahanadi Coalfields Limited (MCL)**  
+6 July 2026 – 5 August 2026
+
+Worked on an Offline AI PDF Assistant using RAG, FAISS, Hugging Face embeddings, Ollama and Llama 3.2, with a Streamlit interface.
+
+## Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/tapashranjanmishra/My-Portfolio.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd My-Portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Create a production build:
+
+```bash
+npm run build
+```
+
+## Contact
+
+- **GitHub:** https://github.com/tapashranjanmishra
+- **LinkedIn:** https://www.linkedin.com/in/tapashranjanmishra
+- **Instagram:** https://www.instagram.com/tapashranjanmishra_/
+- **Email:** mishratapash2103@gmail.com
+
+## License
+
+This project is a personal portfolio. All rights to personal content, photographs and resume materials belong to their respective owner.
